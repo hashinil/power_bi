@@ -7,4 +7,5 @@
 **Day 2**
 > Basics
 > - data Transformation
+> - data model and relationship
 > - Visualization
