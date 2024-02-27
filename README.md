@@ -1,18 +1,20 @@
-# power_bi
+# POWER BI
+### Basics
 **Day 1**
-> Basics
->  - Introduction
->  - cleaning data
+>  - [x] Introduction
+>  - [x] cleaning data
 
 **Day 2**
-> Basics
-> - data Transformation
-> - data model and relationship
-> - Visualization
+> - [x] data Transformation
+> - [x] data model and relationship
+> - [x] Visualization
 
+**Day 3**
+> - [x] dddd
+> - [x] dsds
+> - [x] dsdsd
 
-
--   [x] COUNT
+-   COUNT
 
 
 
