@@ -9,10 +9,11 @@
 > - [x] data model and relationship
 > - [x] Visualization
 
+### Intermediate
 **Day 3**
-> - [x] dddd
-> - [x] dsds
-> - [x] dsdsd
+> - [x] data Transformation
+> - [x] data model and relationship
+> - [x] Visualization
 
 -   COUNT
 
