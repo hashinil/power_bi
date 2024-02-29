@@ -21,6 +21,11 @@
 **Day 5**
 > - [x] Interactive Visualization
 
+**Day 6**
+> - [x]  Transformation
+> - [x]  Visualization
+
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
