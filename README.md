@@ -25,7 +25,10 @@
 > - [x]  Transformation
 > - [x]  Visualization
 
+**Day 7**
+> - [x]  Advanced Dashboard Enhancement
 
+ 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
