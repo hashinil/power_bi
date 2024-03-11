@@ -31,6 +31,9 @@
 **Day 8**
 > - [x]  DAX essentials
 
+**Day 9**
+> - [x]  DAX Calculate & Filtering
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
