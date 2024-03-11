@@ -28,7 +28,10 @@
 **Day 7**
 > - [x]  Advanced Dashboard Enhancement
 
- 
+**Day 8**
+> - [x]  DAX essentials
+
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
