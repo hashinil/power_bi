@@ -34,6 +34,10 @@
 **Day 9**
 > - [x]  DAX Calculate & Filtering
 
+**Day 10**
+> - [x]  Time Intelligence and ChatGPT
+
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
