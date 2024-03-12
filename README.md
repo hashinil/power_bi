@@ -21,6 +21,7 @@
 **Day 5**
 > - [x] Interactive Visualization
 
+### Advanced
 **Day 6**
 > - [x]  Transformation
 > - [x]  Visualization
