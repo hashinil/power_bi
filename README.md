@@ -38,7 +38,9 @@
 **Day 10**
 > - [x]  Time Intelligence and ChatGPT
 
-
+### Intermediate
+**Day 11**
+> - [x]  Publishing report and Power BI services
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
