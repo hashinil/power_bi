@@ -42,6 +42,12 @@
 **Day 11**
 > - [x]  Publishing report and Power BI services
 
+### Advanced
+**Day 12**
+> - [x]  Scheduling, Data Gateway & Mobile APP
+
+
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
