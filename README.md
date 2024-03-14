@@ -49,6 +49,12 @@
 **Day 13**
 > - [x]  Row Level and Page level Securit (PRO)
 
+**Day 14**
+> - [x]  Python, ML & SQL (PRO)
+
+**Day 15**
+> - [x]  M language Fundamentals (PRO)
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
