@@ -46,7 +46,8 @@
 **Day 12**
 > - [x]  Scheduling, Data Gateway & Mobile APP
 
-
+**Day 13**
+> - [x]  Row Level and Page level Securit (PRO)
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
